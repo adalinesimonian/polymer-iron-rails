@@ -14,6 +14,7 @@
 mkmf.log
 app/assets/components/*
 !app/assets/components/iron-*
+!app/assets/components/promise-polyfill
 app/assets/components/iron-test-helpers
 app/assets/components/iron-component-page
 app/assets/components/iron-doc-viewer
