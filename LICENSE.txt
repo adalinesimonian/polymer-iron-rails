@@ -1,4 +1,4 @@
-Copyright (c) 2014 Alex Chaplinsky
+Copyright (c) 2014 Alex Chaplinsky, Vartan Simonian
 
 MIT License
 

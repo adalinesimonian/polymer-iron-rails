@@ -12,9 +12,11 @@
 *.o
 *.a
 mkmf.log
-app/assets/components/polymer-test-tools
-app/assets/components/core-docs
-app/assets/components/core-tests
+app/assets/components/*
+!app/assets/components/iron-*
+app/assets/components/iron-test-helpers
+app/assets/components/iron-component-page
+app/assets/components/iron-doc-viewer
 app/assets/components/**/.bower.json
 app/assets/components/**/bower.json
 app/assets/components/**/README.md
@@ -22,7 +24,7 @@ app/assets/components/**/README.html
 app/assets/components/**/CHANGES.html
 app/assets/components/**/COPYING
 app/assets/components/**/index.html
-app/assets/components/**/demo.html
+app/assets/components/**/demo
 app/assets/components/**/test
 app/assets/components/**/demos
 app/assets/components/**/examples
