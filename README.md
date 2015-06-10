@@ -30,7 +30,7 @@ In order to use Polymer iron elements you need to have
 
 ```ruby
 gem 'polymer-rails'
-gem 'polymer-iron-rails'
+gem 'polymer-iron-rails', :git => "git://github.com/vsimonian/polymer-iron-rails.git"
 ```
 
 After running `bundle install` require needed iron elements into your `application.html` manifest file.
