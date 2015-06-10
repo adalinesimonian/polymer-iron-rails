@@ -33,7 +33,7 @@ gem 'polymer-rails'
 gem 'polymer-iron-rails'
 ```
 
-After runnign `bundle install` require needed iron elements into your `application.html` manifest file.
+After running `bundle install` require needed iron elements into your `application.html` manifest file.
 
     //= require polymer/polymer
     //= require iron-ajax/iron-ajax
