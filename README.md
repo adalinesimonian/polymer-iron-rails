@@ -1,5 +1,7 @@
 # PolymerIronRails
 
+**This repository is no longer maintained.** See [polymer-elements-rails](https://github.com/alchapone/polymer-elements-rails) for an alternative.
+
 Polymer Iron elements are a set of utility elements including general-purpose UI elements (such as icons, layout elements,
 and toolbars), as well as non-UI elements providing features like AJAX, signaling and storage.
 
